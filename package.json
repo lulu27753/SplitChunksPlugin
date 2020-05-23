@@ -1,0 +1,16 @@
+{
+  "name": "SplitChunksPlugin",
+  "version": "0.1.0",
+  "description": "",
+  "main": "chinese.js",
+  "scripts": {
+    "build": "webpack"
+  },
+  "keywords": [],
+  "author": "lu.lu(https://github.com/lulu27753)",
+  "license": "MIT",
+  "devDependencies": {
+    "webpack-cli": "^4.0.0-beta.2",
+    "webpack": "^4.43.0"
+  }
+}
